@@ -28,7 +28,7 @@ I'm a cybersecurity developer and pen tester with expertise in building tools, a
 
 ## GitHub Stats
 
-![Dhanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=dhaneshupai&show_icons=true&count_private=true&hide=prs)
+![Dhanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&count_private=true&hide=prs)
 
 ## Connect with me
 
