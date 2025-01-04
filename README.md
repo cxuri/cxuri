@@ -22,18 +22,10 @@ I'm a cybersecurity developer and pen tester with expertise in building tools, a
 
 ## Projects
 
-- [**Flare**](https://github.com/cxuri/flare) - Open-source cybersecurity tool for [brief project description]
-- [Project 2](link_to_project_2) - [Brief description]
-- [Project 3](link_to_project_3) - [Brief description]
+- [**Flare**](https://github.com/cxuri/flare) - Open-source cybersecurity tool for [ managing and monitoring Android apps ]
 
 ## GitHub Stats
 
 ![Dhanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&count_private=true&hide=prs)
-
-## Connect with me
-
-- [LinkedIn](your-linkedin-profile-link)
-- [Twitter](your-twitter-profile-link)
-- [Portfolio](your-website-link)
 
 Thanks for visiting! Let’s make the digital world safer and more innovative! 🔐🚀
