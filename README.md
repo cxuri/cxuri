@@ -1,8 +1,6 @@
-# > Hi there
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcxuri&countColor=%23263759)
 
-# Hi, I'm Dhanesh U Pai 👋
+# > Hi, I'm Dhanesh U Pai 👋
 
 ## About Me
 
@@ -11,7 +9,7 @@ I'm a cybersecurity developer and pen tester with expertise in building tools, a
 - 💻 **Current Focus**: Penetration Testing, Flutter Development
 - 🌱 **Learning**: Web Security, Cloud Security
 - ⚡ **Fun Fact**: I love building CLI tools and contributing to open-source projects
-- 📫 **Reach me at**: dhanesh.upai@example.com
+- 📫 **Reach me at**: dhaneshupai7@gmail.com
 
 ## Skills & Technologies
 
