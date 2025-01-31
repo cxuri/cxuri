@@ -21,6 +21,7 @@ I'm a cybersecurity developer and pen tester with expertise in building tools, a
 ## Projects
 
 - [**Flare**](https://github.com/cxuri/flare) - Open-source cybersecurity tool for [ managing and monitoring Android apps ]
+- [**Open-dfp**](https://github.com/cxuri/open-dfp) - Open-source Secure Data Storing tool
 
 ## GitHub Stats
 
