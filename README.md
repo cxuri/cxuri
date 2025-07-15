@@ -1,30 +1,33 @@
+# Hey, I'm Dhanesh U Pai 👾
 
+Cybersecurity dev & pen tester — building secure tools, breaking insecure ones.
 
-# > Hi, I'm Dhanesh U Pai 👋
+- 💻 Penetration Testing · Flutter Dev  
+- ☁️ Learning Web & Cloud Security  
+- ⚙️ Building CLI tools & contributing to open source  
+- 📬 dhaneshupai7@gmail.com
 
-## About Me
+---
 
-I'm a cybersecurity developer and pen tester with expertise in building tools, apps, and websites. I’m passionate about open-source contributions, solving complex problems, and constantly evolving with technology.
+### 🛠️ Tech Stack
 
-- 💻 **Current Focus**: Penetration Testing, Flutter Development
-- 🌱 **Learning**: Web Security, Cloud Security
-- ⚡ **Fun Fact**: I love building CLI tools and contributing to open-source projects
-- 📫 **Reach me at**: dhaneshupai7@gmail.com
+`Python` · `C` · `Dart` · `Java` · `JavaScript`  
+`Flutter` · `Docker` · `Firebase` · `Kali Linux` · `Burp Suite`  
+`MySQL` · `Git`
 
-## Skills & Technologies
+---
 
-- **Languages**: C, Python, Dart, Java, JavaScript
-- **Frameworks**: Flutter
-- **Tools**: Git, Docker, Firebase, Burp Suite, Kali Linux
-- **Databases**: MySQL, Firebase
+### 🚀 Projects
 
-## Projects
+- [Flare](https://github.com/cxuri/flare) — Cybersecurity tool for Android app monitoring  
+- [Open-dpf](https://github.com/cxuri/open-dpf) — Secure data storage tool
 
-- [**Flare**](https://github.com/cxuri/flare) - Open-source cybersecurity tool for [ managing and monitoring Android apps ]
-- [**Open-dpf**](https://github.com/cxuri/open-dpf) - Open-source Secure Data Storing tool
+---
 
-## GitHub Stats
+### 📊 GitHub Stats
 
-![Dhanesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&count_private=true&hide=prs)
+![cxuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&hide=prs&theme=tokyonight)
 
-Thanks for visiting! Let’s make the digital world safer and more innovative! 🔐🚀
+---
+
+_stay curious. stay secure._ 🔐
