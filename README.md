@@ -2,11 +2,8 @@
   <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="150">
   <br>Dhanesh U Pai
 </h1>
-
-<h3 align="center">"First, solve the problem. Then, write the code." — John Johnson</h3>
-
 <p align="center">
-  <strong>Security Developer</strong> • <strong>Open Source Contributor</strong> • <strong>CLI Tools Enthusiast</strong>
+  *Master of none*
 </p>
 
 ---
