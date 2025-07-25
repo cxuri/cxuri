@@ -6,6 +6,7 @@
   <b>Dhanesh U Pai</b><br>
   Cybersecurity Developer · Penetration Tester<br>
   <i>Master of None</i><br>
+  <img src="https://komarev.com/ghpvc/?username=cxuri&label=Profile%20views&color=0e75b6&style=flat" alt="cxuri" />
 </p>
 
 ---
@@ -40,3 +41,25 @@
     </td>
   </tr>
 </table>
+
+---
+
+### 📦 Latest Releases
+
+<!-- RECENT_RELEASES -->
+<!-- prettier-ignore -->
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=REPO_NAME&theme=radical)](https://github.com/cxuri/REPO_NAME/releases/latest)
+<!-- Replace REPO_NAME with your actual repository name -->
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="cxuri's stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=radical" alt="cxuri's top languages"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cxuri&theme=radical" alt="cxuri's streak stats"/>
+</p>
