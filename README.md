@@ -1,7 +1,5 @@
 <div align="center">
-  <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="180" alt="Nyan Cat">
-  
-  ## Dhanesh U Pai  
+  ## Dhanesh U Pai
   #### Cybersecurity Developer • Pentester
   <i>Security is not a product, but a process.</i>
 </div>
