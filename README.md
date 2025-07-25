@@ -2,6 +2,8 @@
   <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="200">
   
   ### Dhanesh U Pai
+
+  #### Cybersecurity Developer & PenTester
   
   <small><i>Master of none</i></small>
 </div>
