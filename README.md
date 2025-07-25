@@ -15,7 +15,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,docker,vim,c,java" alt="Tech Stack"/>
+  <img src="https://skillicons.dev/icons?i=python,bash,linux,git,docker,vim,c,java,flutter" alt="Tech Stack"/>
 </p>
 
 ---
@@ -23,51 +23,22 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=dark#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=default#gh-light-mode-only"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=dark" />
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source 
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=dark#gh-dark-mode-only" 
-      media="(prefers-color-scheme: dark)"
-    />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=default#gh-light-mode-only"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=dark" />
-  </picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=dark&hide_border=true&bg_color=00000000" width="48%"/>
 </p>
 
 ---
 
-### 🚀 Latest Release
+### 🌟 Open Source Projects
 
-<p align="center">
-  <a href="https://github.com/cxuri/pascii/releases/latest">
-    <img src="https://img.shields.io/github/v/release/cxuri/pascii?style=for-the-badge&color=2ea44f&label=Latest%20Release" alt="Latest Release">
-  </a>
-</p>
-
+#### 🔧 pascii - Terminal ASCII Art Generator
 <p align="center">
   <a href="https://github.com/cxuri/pascii">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&theme=dark&show_owner=true" alt="pascii">
   </a>
 </p>
+A minimalist yet powerful ASCII art generator for terminal applications. Written in Python with zero dependencies, it allows developers to quickly add stylish banners to their CLI tools with customizable fonts and layouts.
 
----
-
-<p align="center">
-  <em>"Make it work, make it right, make it fast." — Kent Beck</em>
-</p>
+```bash
+pip install pascii
+pascii "Hello World" --font=block --align=center
