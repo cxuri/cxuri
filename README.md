@@ -1,5 +1,6 @@
 <div align="center">
   <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="200">
+  <h1></h1>
   <h2>Dhanesh U Pai</h2>
   <h4>Cybersecurity Developer | Pentester</h4>
   <p><i>Security is not a product, but a process.</i></p>
