@@ -2,64 +2,61 @@
   <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="300">
 </p>
 
+<h1 align="center">
+  <b>Dhanesh U Pai</b>
+</h1>
+
 <p align="center">
-  <b>Dhanesh U Pai</b><br>
-  Cybersecurity Developer · Penetration Tester<br>
-  <i>Master of None</i><br>
-  <img src="https://komarev.com/ghpvc/?username=cxuri&label=Profile%20views&color=0e75b6&style=flat" alt="cxuri" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Cybersecurity+Developer;Penetration+Tester;Master+of+None" alt="Typing SVG" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=cxuri&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="cxuri" />
 </p>
 
 ---
 
-### 🧰 Tech Stack
+### 🛠️ Tech Stack
 
-<table align="center">
-  <tr>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/><br>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40"/><br>
-      <sub><b>C</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40"/><br>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40"/><br>
-      <sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40"/><br>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="100">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/><br>
-      <sub><b>Python</b></sub>
-    </td>
-  </tr>
-</table>
+<div align="center">
+  
+| **Category**       | **Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+|--------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**      | ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)                                                                                                                                                                                                                    |
+| **Development**    | ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)                                                                                                                                                                                                      |
+| **Security Tools** | ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-258FFA?style=for-the-badge&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge) ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)                                                                                                                                                                             |
+
+</div>
 
 ---
 
-### 📦 Latest Releases
+### 🚀 Latest Projects & Releases
 
-<!-- RECENT_RELEASES -->
-<!-- prettier-ignore -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&theme=radical)](https://github.com/cxuri/pascii/releases/latest)
-<!-- Replace REPO_NAME with your actual repository name -->
+<div align="center">
+  
+[![PASCII](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&show_owner=true&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d)](https://github.com/cxuri/pascii)
+[![Generic Repo](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=REPO_NAME&show_owner=true&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d)](https://github.com/cxuri/REPO_NAME)
+
+</div>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Analytics
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="cxuri's stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=radical" alt="cxuri's top languages"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cxuri&theme=radical" alt="cxuri's streak stats"/>
-</p>
+![Dhanesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d&hide_border=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=dark&bg_color=0d1117&title_color=58A6FF&text_color=c9d1d9&icon_color=58A6FF&border_color=30363d&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=cxuri&theme=dark&background=0d1117&border=30363d&stroke=30363d&ring=58A6FF&fire=58A6FF&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=8b949e)
+
+</div>
+
+---
+
+### 🔥 Contribution Graph
+
+![Dhanesh's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=cxuri&theme=github-dark&bg_color=0d1117&color=58A6FF&line=58A6FF&point=c9d1d9&area=true&hide_border=true&custom_title=My%20Contribution%20Graph)
