@@ -27,8 +27,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" width="45%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=dark&hide_border=true&bg_color=00000000&exclude_repo=dotfiles" width="45%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=dark&hide_border=true&bg_color=00000000&exclude_repo=dotfiles" width="400"/>
 </p>
 
 ---
@@ -45,9 +45,3 @@
 </p>
 
 ---
-
-### 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=cxuri&theme=onedark&no-frame=true&row=1&column=4" width="80%"/>
-</p>
