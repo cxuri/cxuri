@@ -47,7 +47,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=radical&hide_border=true&bg_color=00000000&exclude_repo=dotfiles" width="350"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=radical&hide_border=true&bg_color=00000000&exclude_repo=dotfiles" width="300"/>
 </p>
 
 ---
