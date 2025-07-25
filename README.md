@@ -1,14 +1,9 @@
 <h1 align="center">
   <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="200">
   <br>Dhanesh U Pai
+  <p>*Master of none*</p>
 </h1>
 
-<h3 align="center">"First, solve the problem. Then, write the code." — John Johnson</h3>
-
-<p align="center">
-  <strong>Security Developer</strong> • <strong>Open Source Contributor</strong> • <strong>CLI Tools Enthusiast</strong><br>
-  <code>Python</code> • <code>Bash</code> • <code>Linux</code> • <code>Security Tools</code>
-</p>
 
 ---
 
