@@ -1,51 +1,24 @@
 <div align="center">
-  <table>
-    <tr>
-      <td width="40%" align="center" valign="middle">
-        <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="250">
-      </td>
-      <td width="60%" align="center" valign="middle" style="padding-left: 20px;">
-        <h2 style="margin-bottom: 5px;">Dhanesh U Pai</h2>
-        <h4 style="color: #3aa655; margin-top: 5px; margin-bottom: 10px;">Cybersecurity Developer | Pentester</h4>
-        <p style="margin-top: 10px;">
-          <i>Security is not a product, but a process.</i>
-        </p>
-      </td>
-    </tr>
-  </table>
+  <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="200">
+  <h2>Dhanesh U Pai</h2>
+  <h4>Cybersecurity Developer | Pentester</h4>
+  <p><i>Security is not a product, but a process.</i></p>
 </div>
 
 ---
 
 ### 🛠️ Tech Stack
-
-| Category       | Technologies                                                                 |
-|----------------|------------------------------------------------------------------------------|
-| **Languages**  | ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=flat&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=flat&logo=dart&logoColor=white) |
-| **Development**| ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=flat&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=flat&logo=linux&logoColor=black) |
-| **Security Tools** | ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=flat&logo=burpsuite&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%23E34F26.svg?style=flat&logo=metasploit&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%23FFFFFF.svg?style=flat&logo=nmap&logoColor=black) |
-
-### 📊 GitHub Analytics
-<div align="center" style="border: 2px solid #3aa655; border-radius: 10px; padding: 10px; margin: 10px 0;">
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&text_color=d0d0d0&icon_color=3aa655)](https://github.com/cxuri)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=d0d0d0&title_color=3aa655)](https://github.com/cxuri)
-</div>
-
-### 🛠️ Projects
-<div align="center" style="border: 2px solid #3aa655; border-radius: 10px; padding: 10px; margin: 10px 0;">
-
-[![PASCII](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&theme=dark&hide_border=true&bg_color=00000000&text_color=d0d0d0&title_color=3aa655)](https://github.com/cxuri/pascii)
-[![Open-DPF](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=open-dpf&theme=dark&hide_border=true&bg_color=00000000&text_color=d0d0d0&title_color=3aa655)](https://github.com/cxuri/open-dpf)
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" title="Java">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" title="Flutter">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git">
 </div>
 
 ---
 
 <div align="center">
-
-[![Streak](https://streak-stats.demolab.com?user=cxuri&theme=dark&hide_border=true&background=00000000&dates=d0d0d0&stroke=3aa655)](https://github.com/cxuri)
+  <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats">
 </div>
-
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=cxuri&label=Profile+Views&color=3aa655&style=flat" alt="cxuri" /> 
-</p>
