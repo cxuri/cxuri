@@ -1,13 +1,13 @@
 <div align="center">
   <table>
     <tr>
-      <td width="50%" align="center">
+      <td width="40%" align="center" valign="middle">
         <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="250">
       </td>
-      <td width="50%" align="center" style="text-align: left; vertical-align: middle;">
-        <h2>Dhanesh U Pai</h2>
-        <h4 style="color: #3aa655">Cybersecurity Developer | Pentester</h4>
-        <p>
+      <td width="60%" align="center" valign="middle" style="padding-left: 20px;">
+        <h2 style="margin-bottom: 5px;">Dhanesh U Pai</h2>
+        <h4 style="color: #3aa655; margin-top: 5px; margin-bottom: 10px;">Cybersecurity Developer | Pentester</h4>
+        <p style="margin-top: 10px;">
           <i>Security is not a product, but a process.</i>
         </p>
       </td>
