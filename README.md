@@ -9,6 +9,8 @@
   <i>Security is not a product, but a process.</i>
 </p>
 
+---
+
 ### 🛠️ Tech Stack
 
 | Category       | Technologies                                                                 |
@@ -23,8 +25,6 @@
 [![Stats](https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=00000000&text_color=d0d0d0&icon_color=3aa655)](https://github.com/cxuri)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=dark&hide_border=true&bg_color=00000000&text_color=d0d0d0&title_color=3aa655)](https://github.com/cxuri)
 </div>
-
----
 
 ### 🛠️ Projects
 <div align="center" style="border: 2px solid #3aa655; border-radius: 10px; padding: 10px; margin: 10px 0;">
