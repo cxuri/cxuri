@@ -2,8 +2,7 @@
   <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="250">
 </p>
 
-<h2 align="center">Dhanesh U Pai</h2>
-<h4 align="center" style="color: #3aa655">Security Developer | Pentester</h4>
+
 
 <p align="center">
   <i>Security is not a product, but a process.</i>
