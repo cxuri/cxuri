@@ -1,6 +1,10 @@
-<h1 align="center"><img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="150"></h1>
-<h2 align="center">Dhanesh U Pai</h2>
-<h5 align="center"><i>Master of none</i></h5>
+<div align="center">
+  <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="150">
+  
+  # Dhanesh U Pai
+  
+  <small><i>Master of none</i></small>
+</div>
 
 ---
 
