@@ -1,22 +1,70 @@
 <h1 align="center">
   <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="150">
-  <br>Dhanesh U Pai
 </h1>
-<p align="center">
-  *Master of none*
-</p>
+
+<h2 align="center">Dhanesh U Pai</h2>
+
+<h3 align="center"><i>Master of none</i></h3>
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
+  <table align="center">
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+        <br>Linux
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+        <br>Python
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+        <br>C
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
+        <br>Java
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+        <br>Flutter
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" width="40" height="40"/>
+        <br>Android
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+        <br>Git
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
+        <br>Docker
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40"/>
+        <br>Bash
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40"/>
+        <br>VSCode
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
+        <br>GitHub
+      </td>
+      <td align="center">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="40" height="40"/>
+        <br>Ubuntu
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
@@ -24,21 +72,37 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=dark&hide_border=true&bg_color=00000000" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=dark&hide_border=true&bg_color=00000000&exclude_repo=dotfiles" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=radical&hide_border=true&bg_color=00000000&exclude_repo=dotfiles" width="400"/>
 </p>
 
 ---
 
-### 🌟 Featured Releases
+### 🌟 Featured Projects
+
+<div align="center">
+  <a href="https://github.com/cxuri/pascii">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&theme=radical&show_owner=true" width="45%"/>
+  </a>
+  <a href="https://github.com/cxuri/open-dpf">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=open-dpf&theme=radical&show_owner=true" width="45%"/>
+  </a>
+</div>
+
+---
+
+### 📫 How to reach me
 
 <p align="center">
-  <a href="https://github.com/cxuri/pascii/releases">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&theme=dark&show_owner=true" width="45%"/>
+  <a href="mailto:your-email@example.com">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40"/>
   </a>
-  <a href="https://github.com/cxuri/open-dpf/releases">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=open-dpf&theme=dark&show_owner=true" width="45%"/>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://twitter.com/yourhandle">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
   </a>
 </p>
-
----
