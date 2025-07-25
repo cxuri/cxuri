@@ -1,8 +1,8 @@
-<div align="center">
+
   ## Dhanesh U Pai
   #### Cybersecurity Developer • Pentester
-  <i>Security is not a product, but a process.</i>
-</div>
+
+
 
 ---
 
