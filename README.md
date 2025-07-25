@@ -6,7 +6,6 @@
   <b>Dhanesh U Pai</b><br>
   Cybersecurity Developer · Penetration Tester<br>
   <i>Master of None</i><br>
-  📫 dhaneshupai7@gmail.com
 </p>
 
 ---
