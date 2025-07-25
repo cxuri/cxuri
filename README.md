@@ -1,4 +1,8 @@
-<h1 align="center">Dhanesh U Pai</h1>
+<h1 align="center">
+  <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="200">
+  <br>Dhanesh U Pai
+</h1>
+
 <h3 align="center">"First, solve the problem. Then, write the code." — John Johnson</h3>
 
 <p align="center">
