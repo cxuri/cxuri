@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+#### 🛠️ Tech Stack
 
 <p align="center">
   <table align="center">
@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 GitHub Analytics
+#### 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="400"/>
@@ -52,7 +52,7 @@
 
 ---
 
-### 🌟 Featured Projects
+#### 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/cxuri/pascii">
