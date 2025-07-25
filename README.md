@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="150">
+  <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="200">
   
-  # Dhanesh U Pai
+  ### Dhanesh U Pai
   
   <small><i>Master of none</i></small>
 </div>
