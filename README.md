@@ -57,7 +57,7 @@
 <div align="center">
   
 [![PASCII](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&theme=dark&hide_border=true&bg_color=00000000&text_color=58a6ff&title_color=58a6ff)](https://github.com/cxuri/pascii)
-[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=open-dpftheme=dark&hide_border=true&bg_color=00000000&text_color=58a6ff&title_color=58a6ff)](https://github.com/cxuri/open-dpf)
+[![Project 2](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=open-dpf&theme=dark&hide_border=true&bg_color=00000000&text_color=58a6ff&title_color=58a6ff)](https://github.com/cxuri/open-dpf)
 
 </div>
 
