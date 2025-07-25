@@ -47,7 +47,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=radical&hide_border=true&bg_color=00000000&exclude_repo=dotfiles" width="400"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=radical&hide_border=true&bg_color=00000000&exclude_repo=dotfiles" width="350"/>
 </p>
 
 ---
@@ -64,19 +64,5 @@
 </div>
 
 ---
-
-### 📫 How to reach me
-
-<p align="center">
-  <a href="mailto:your-email@example.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gmail/gmail-original.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://twitter.com/yourhandle">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="40" height="40"/>
   </a>
 </p>
