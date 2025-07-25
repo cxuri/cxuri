@@ -1,13 +1,19 @@
-<p align="center">
-  <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="250">
-</p>
-
-<h2 align="center">Dhanesh U Pai</h2>
-<h4 align="center">Cybersecurity Developer | Pentester</h4>
-
-<p align="center">
-  <i>Security is not a product, but a process.</i>
-</p>
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="250">
+      </td>
+      <td width="50%" align="center" style="text-align: left; vertical-align: middle;">
+        <h2>Dhanesh U Pai</h2>
+        <h4 style="color: #3aa655">Cybersecurity Developer | Pentester</h4>
+        <p>
+          <i>Security is not a product, but a process.</i>
+        </p>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ---
 
