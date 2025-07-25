@@ -48,7 +48,7 @@
 
 <!-- RECENT_RELEASES -->
 <!-- prettier-ignore -->
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=REPO_NAME&theme=radical)](https://github.com/cxuri/REPO_NAME/releases/latest)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&theme=radical)](https://github.com/cxuri/pascii/releases/latest)
 <!-- Replace REPO_NAME with your actual repository name -->
 
 ---
