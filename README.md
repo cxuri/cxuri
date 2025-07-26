@@ -3,7 +3,7 @@
   
   ### 🔐 Dhanesh U Pai  
   #### 🛡️ Cybersecurity Developer | ⚔️ Penetration Tester  
-  *"✨ Master of none ✨"*  
+  *Master of none*  
 
   ![Profile Views](https://komarev.com/ghpvc/?username=cxuri&color=blueviolet&style=flat-square)
 </div>
