@@ -2,8 +2,10 @@
   <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="200" style="margin-bottom: -10px">
   
   ### 🔐 Dhanesh U Pai  
-  #### 🛡️ Cybersecurity Developer & ⚔️ PenTester  
-  <i>✨ Master of none ✨</i>
+  #### 🛡️ Cybersecurity Developer | ⚔️ Penetration Tester  
+  *"✨ Master of none ✨"*  
+
+  ![Profile Views](https://komarev.com/ghpvc/?username=cxuri&color=blueviolet&style=flat-square)
 </div>
 
 ---
@@ -47,7 +49,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cxuri&show_icons=true&theme=radical&hide_border=true&bg_color=00000000" width="400"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=radical&hide_border=true&bg_color=00000000&exclude_repo=dotfiles" width="300"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cxuri&layout=compact&theme=radical&hide_border=true&bg_color=00000000" width="300"/>
 </p>
 
 ---
@@ -56,13 +58,21 @@
 
 <div align="center">
   <a href="https://github.com/cxuri/pascii">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&theme=radical&show_owner=true" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&theme=radical" width="45%"/>
   </a>
   <a href="https://github.com/cxuri/open-dpf">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=open-dpf&theme=radical&show_owner=true" width="45%"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=open-dpf&theme=radical" width="45%"/>
   </a>
 </div>
 
 ---
+
+#### 🔗 Connect With Me
+<p align="center">
+  <a href="https://linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
