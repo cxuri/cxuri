@@ -2,7 +2,7 @@
   <img src="https://github.com/cxuri/cxuri/blob/main/nyan.gif?raw=true" width="200" style="margin-bottom: -10px">
   
   ### 🔐 Dhanesh U Pai  
-  #### 🛡️  Security Researher | ⚔️ Penetration Tester  
+  #### 🛡️  Security Researcher | ⚔️ Penetration Tester  
   *Master of none*  
 
   ![Profile Views](https://komarev.com/ghpvc/?username=cxuri&color=blueviolet&style=flat-square)
