@@ -53,16 +53,3 @@
   <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cxuri&theme=radical&hide_border=true&background=00000000" alt="GitHub Streak"/>
 </p>
-
----
-#### 🌟 Featured Projects
-
-<div align="center">
-  <a href="https://github.com/cxuri/pascii">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=pascii&theme=default&hide_border=true" width="45%"/>
-  </a>
-  <a href="https://github.com/cxuri/id0">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cxuri&repo=id0&theme=default&hide_border=true" width="45%"/>
-  </a>
-</div>
----
