@@ -1,13 +1,10 @@
-
-
 <pre>
-<span style="color: #00ff00">      .---.       </span>  <span style="color: #d75f00"><strong>cxuri</strong></span>@<span style="color: #d75f00"><strong>dhanesh</strong></span>
-<span style="color: #00ff00">     /     \      </span>  --------------------
+<span style="color: #00ff00">      .---.       </span>  <span style="color: #d75f00"><strong>builder</strong></span>@<span style="color: #d75f00"><strong>terminal</strong></span>
+<span style="color: #00ff00">     /     \      </span>  -------------------------
 <span style="color: #00ff00">    ( </span><span style="color: #ff0000">() ()</span><span style="color: #00ff00"> )     </span>  <span style="color: #b58900"><strong>OS</strong></span>: Linux x86_64
-<span style="color: #00ff00">     \  ^  /      </span>  <span style="color: #b58900"><strong>Host</strong></span>: Dhanesh U Pai
-<span style="color: #00ff00">      |||||       </span>  <span style="color: #b58900"><strong>Uptime</strong></span>: 19 years
-<span style="color: #00ff00">      |||||       </span>  <span style="color: #b58900"><strong>Role</strong></span>: Security Researcher / Pentester
-<span style="color: #00ff00">                  </span>  <span style="color: #b58900"><strong>Education</strong></span>: Cs Undergraduate
+<span style="color: #00ff00">     \  ^  /      </span>  <span style="color: #b58900"><strong>Focus</strong></span>: Security • Systems • AI
+<span style="color: #00ff00">      |||||       </span>  <span style="color: #b58900"><strong>Role</strong></span>: Security Researcher
+<span style="color: #00ff00">      |||||       </span>  <span style="color: #b58900"><strong>Status</strong></span>: Building
 </pre>
 
 ---
@@ -17,30 +14,65 @@
 ```json
 // whoami.json
 {
-  "user": "Dhanesh U Pai",
-  "status": "Online",
-  "bio": "Master of none",
+  "alias": "builder",
+  "status": "Building",
+  "philosophy": "Solve difficult problems. Build useful things.",
+  "current_focus": [
+    "Cybersecurity",
+    "Defence Tech",
+    "AI",
+    "Systems Engineering"
+  ]
 }
 ```
+
+---
+
 ### `/usr/bin`
+
 ```json
-// info.json
+// stack.json
 {
   "languages": [
-    "Python", "C", "Java", "Dart", "C++", "Go"
+    "Python",
+    "Go",
+    "C",
+    "C++",
+    "Java",
+    "Dart"
   ],
-  "frameworks": [
-    "Flutter",
-    "Android SDK",
-    "eBPF",
-    "Next.js",
-    "Kubernetees",
+  "technologies": [
+    "Linux",
     "Docker",
+    "Kubernetes",
+    "eBPF",
+    "Flutter",
+    "Android",
+    "Next.js"
   ],
   "environment": [
-    "Arch Linux (bspwm/i3)",
-    "Bash/Zsh",
-    "Vim/Neovim"
+    "Arch Linux",
+    "Neovim",
+    "Bash",
+    "Git"
+  ]
+}
+```
+
+---
+
+### `/var/goals`
+
+```json
+// roadmap.json
+{
+  "mission": "Build technology that solves meaningful problems.",
+  "interests": [
+    "Cybersecurity",
+    "Defence",
+    "Research",
+    "Distributed Systems",
+    "Artificial Intelligence"
   ]
 }
 ```
